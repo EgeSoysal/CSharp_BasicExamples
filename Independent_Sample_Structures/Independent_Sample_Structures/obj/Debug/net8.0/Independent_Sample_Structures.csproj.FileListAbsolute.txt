@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\bin\Debug\net8.0\Independent_Sample_Structures.exe
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\bin\Debug\net8.0\Independent_Sample_Structures.deps.json
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\bin\Debug\net8.0\Independent_Sample_Structures.runtimeconfig.json
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\bin\Debug\net8.0\Independent_Sample_Structures.dll
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\bin\Debug\net8.0\Independent_Sample_Structures.pdb
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.AssemblyInfo.cs
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.dll
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\refint\Independent_Sample_Structures.dll
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.pdb
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\Independent_Sample_Structures.genruntimeconfig.cache
+C:\Users\user\source\repos\Independent_Sample_Structures\Independent_Sample_Structures\obj\Debug\net8.0\ref\Independent_Sample_Structures.dll
