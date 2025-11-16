@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\bin\Debug\net8.0\IntDoubleCharString.exe
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\bin\Debug\net8.0\IntDoubleCharString.deps.json
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\bin\Debug\net8.0\IntDoubleCharString.runtimeconfig.json
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\bin\Debug\net8.0\IntDoubleCharString.dll
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\bin\Debug\net8.0\IntDoubleCharString.pdb
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.AssemblyInfo.cs
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.dll
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\refint\IntDoubleCharString.dll
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.pdb
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\IntDoubleCharString.genruntimeconfig.cache
+C:\Users\user\source\repos\IntDoubleCharString\IntDoubleCharString\obj\Debug\net8.0\ref\IntDoubleCharString.dll
