@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "If_&_Else_Examples/1.0.0": {
+        "runtime": {
+          "If_&_Else_Examples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_&_Else_Examples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\bin\Debug\net8.0\If_&_Else_Examples.exe
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\bin\Debug\net8.0\If_&_Else_Examples.deps.json
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\bin\Debug\net8.0\If_&_Else_Examples.runtimeconfig.json
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\bin\Debug\net8.0\If_&_Else_Examples.dll
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\bin\Debug\net8.0\If_&_Else_Examples.pdb
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.AssemblyInfo.cs
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.dll
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\refint\If_&_Else_Examples.dll
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.pdb
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\If_&_Else_Examples.genruntimeconfig.cache
+C:\Users\user\source\repos\If_&_Else_Examples\If_&_Else_Examples\obj\Debug\net8.0\ref\If_&_Else_Examples.dll
