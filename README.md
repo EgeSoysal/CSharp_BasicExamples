@@ -1,55 +1,74 @@
-# 🚀 C# BASIC EXAMPLES 🚀
+🚀 C# BASIC EXAMPLES 🚀
 
-Welcome to the ultimate collection of beginner-friendly **C# console applications**!  
-This repository is designed to help learners master core C# concepts through hands-on examples.
+Welcome to the ultimate collection of beginner-friendly C# console applications!
+This repository is designed to help learners master fundamental C# concepts through simple, clear, and practical examples.
 
----
+📂 FOLDER STRUCTURE
+1. IF-ELSE EXAMPLES
 
-## 📂 FOLDER STRUCTURE
+💡 Practical examples demonstrating conditional logic using if, else if, and else.
+Includes scenarios such as score evaluation, city validation, password checks, and more.
 
-### 1. IF VE ELSE EXAMPL
-💡 Practical examples of conditional logic using `if`, `else if`, and `else`.  
-Includes scenarios like student score evaluation, city verification, and magic code checks.
+2. INDEPENDENT SAMPLE EXAMPLES
 
-### 2. INDEPENDENT SAMP EAMPLE
-🔹 Independent mini-projects demonstrating different programming structures and logical flows.
+🔹 Standalone mini-projects showcasing different logical flows and beginner-friendly algorithms.
+🔹 Includes the Three-Digit Number Analyzer, where digits are extracted and summed.
 
-### 3. INT DOUBLE CHAR STRING EXAMPLE
-🔹 Working with basic data types (`int`, `double`, `char`, `string`).  
-🔹 Shows variable usage, arithmetic operations, and console input/output.
+3. INT DOUBLE CHAR STRING EXAMPLES
 
-### 4. PARSE EXAMPLES
-🔹 Examples of converting user input into different data types using `Parse` and `TryParse`.
+🔹 Examples of working with core data types (int, double, char, string).
+🔹 Demonstrates variable creation, arithmetic operations, concatenation, and console input/output.
 
-### 5. LICENSE
-📝 Project license information.
+4. PARSE EXAMPLES
 
-### 6. README.md
-🔹 This file — your guide to the repository.
+🔹 Covers converting user input into numeric or character types using Parse and TryParse.
+🔹 Useful for handling input validation and type conversion.
 
----
+5. LICENSE
 
-## 🎯 PURPOSE
+📝 Contains licensing information for the project.
 
-This repository is built for beginners who want to:  
+6. README.md
 
-- Master conditional statements and decision-making  
-- Work with different data types effectively  
-- Read user input from the console and perform type conversion  
-- Practice simple arithmetic and logical operations  
+🔹 This guide — explaining the purpose, structure, and usage of the repository.
 
-All examples are **self-contained** and ready to run in any C# IDE.
+🎯 PURPOSE
 
----
+This repository is created for beginners who want to:
 
-## ⚡ HOW TO USE
+Understand and master conditional statements
 
-1. Clone or download the repository.  
-2. Open the desired project folder in Visual Studio or any C# IDE.  
-3. Build and run the console application.  
-4. Follow the prompts and see the examples in action.
+Learn how different data types work in C#
 
----
+Read user input and convert between data types
 
-🔥 Level up your C# skills with these hands-on examples! 🔥
+Practice basic math, logic, and problem-solving
 
+Build confidence through small, working console applications
+
+All examples are self-contained, clearly commented, and ready to run.
+
+⚡ HOW TO USE
+
+Clone or download the repository.
+
+Open any example folder in Visual Studio, Rider, VS Code, or another C# IDE.
+
+Build and run the application.
+
+Explore the code, modify it, and practice writing your own examples.
+
+⭐ NEW HIGHLIGHTED EXAMPLE
+Three-Digit Number Analyzer
+
+* A simple console application that:
+
+* Takes a three-digit number from the user
+
+* Extracts the ones, tens, and hundreds digits
+
+* Displays each digit separately
+
+Calculates and prints the sum of digits
+
+Includes improved and stylized console output
