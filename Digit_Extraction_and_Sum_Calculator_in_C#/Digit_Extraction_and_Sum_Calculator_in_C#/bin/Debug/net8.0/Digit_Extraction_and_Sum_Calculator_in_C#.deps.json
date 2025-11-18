@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Digit_Extraction_and_Sum_Calculator_in_C#/1.0.0": {
+        "runtime": {
+          "Digit_Extraction_and_Sum_Calculator_in_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digit_Extraction_and_Sum_Calculator_in_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
