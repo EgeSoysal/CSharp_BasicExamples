@@ -30,33 +30,33 @@ Includes scenarios such as score evaluation, city validation, password checks, a
 
 6. README.md
 
-🔹 This guide — explaining the purpose, structure, and usage of the repository.
+🔹 This guide explaining the purpose, structure, and usage of the repository.
 
 🎯 PURPOSE
 
 This repository is created for beginners who want to:
 
-Understand and master conditional statements
+* Understand and master conditional statements
 
-Learn how different data types work in C#
+* Learn how different data types work in C#
 
-Read user input and convert between data types
+* Read user input and convert between data types
 
-Practice basic math, logic, and problem-solving
+* Practice basic math, logic, and problem-solving
 
-Build confidence through small, working console applications
+* Build confidence through small, working console applications
 
 All examples are self-contained, clearly commented, and ready to run.
 
 ⚡ HOW TO USE
 
-Clone or download the repository.
+1. Clone or download the repository.
 
-Open any example folder in Visual Studio, Rider, VS Code, or another C# IDE.
+2. Open any example folder in Visual Studio, Rider, VS Code, or another C# IDE.
 
-Build and run the application.
+3. Build and run the application.
 
-Explore the code, modify it, and practice writing your own examples.
+4. Explore the code, modify it, and practice writing your own examples.
 
 ⭐ NEW HIGHLIGHTED EXAMPLE
 Three-Digit Number Analyzer
