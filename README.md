@@ -3,21 +3,21 @@
 Welcome to the C# Basic Examples repository — a curated set of beginner-friendly console applications created to help you understand and practice fundamental C# programming concepts.
 
 This repository is ideal for students, beginners, and anyone who wants to strengthen their foundations in C# through real working examples.
-
+---
 📁 PROJECT STRUCTURE
 
 Below is the breakdown of all folders exactly as they appear in your repository:
-
+---
 📌 Digit_Extraction_and_Sum_Calculator_in_C#
 
 A program that analyzes a three-digit number, extracts each digit (hundreds, tens, ones), and calculates the sum of all digits.
 Great for learning arithmetic operations and modulus/division logic.
-
+---
 📌 For&While_Example
 
 Shows how to use for and while loops in different scenarios.
 Includes counting loops, conditional loops, and user-interactive looping processes.
-
+---
 📌 If_&_Else_Examples
 
 Demonstrates conditional logic using if, else if, and else statements.
@@ -27,12 +27,12 @@ Includes examples such as:
 * City verification
 * Password and username checks
 * Comparison operations
-
+---
 📌 Independent_Sample_Structures
 
 A collection of standalone mini-programs that focus on logical operations and algorithmic thinking.
 Each example is independent and showcases a specific concept or logic flow.
-
+---
 📌 IntDoubleCharString
 
 Covers essential C# data types:
@@ -47,7 +47,7 @@ Includes examples of:
 * Reading user input
 * Printing formatted output
 * Performing arithmetic operations
-
+---
 📌 Mod_Usage_Examples
 
 Demonstrates how to use the modulus (%) operator.
@@ -55,7 +55,7 @@ Examples include:
 * Remainder operations
 * Even/odd number checking
 * Basic math-based logic
-
+---
 📌 Parse_Examples
 
 Shows how to convert user input into different data types using:
@@ -64,7 +64,7 @@ Shows how to convert user input into different data types using:
 * char.Parse()
 
 Great for learning how to properly handle console input and type conversion.
-
+---
 🎯 PURPOSE OF THIS REPO
 
 This repository aims to help beginners:
@@ -78,7 +78,7 @@ This repository aims to help beginners:
 ✔ Practice by running real, working console applications
 
 Every example is clear, simple, and well-commented.
-
+---
 ⚡ HOW TO USE
 
 1. Clone or download the repository.
@@ -88,7 +88,7 @@ Every example is clear, simple, and well-commented.
 3. Build and run the console application.
 
 4. Modify the code and experiment with your own ideas.
-
+---
 ⭐ HIGHLIGHTED PROJECT
 Three-Digit Number Analyzer
 
@@ -102,7 +102,8 @@ This program:
 * Uses stylish console output formatting
 
 Perfect for beginners who want to understand number manipulation.
-
+---
 📜 LICENSE
 
 This repository is distributed under the MIT License.
+---
