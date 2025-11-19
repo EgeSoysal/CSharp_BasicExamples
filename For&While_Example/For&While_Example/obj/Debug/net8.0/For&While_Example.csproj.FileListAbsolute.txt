@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\For&While_Example\For&While_Example\bin\Debug\net8.0\For&While_Example.exe
+C:\Users\user\source\repos\For&While_Example\For&While_Example\bin\Debug\net8.0\For&While_Example.deps.json
+C:\Users\user\source\repos\For&While_Example\For&While_Example\bin\Debug\net8.0\For&While_Example.runtimeconfig.json
+C:\Users\user\source\repos\For&While_Example\For&While_Example\bin\Debug\net8.0\For&While_Example.dll
+C:\Users\user\source\repos\For&While_Example\For&While_Example\bin\Debug\net8.0\For&While_Example.pdb
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.AssemblyInfo.cs
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.dll
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\refint\For&While_Example.dll
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.pdb
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\For&While_Example.genruntimeconfig.cache
+C:\Users\user\source\repos\For&While_Example\For&While_Example\obj\Debug\net8.0\ref\For&While_Example.dll
