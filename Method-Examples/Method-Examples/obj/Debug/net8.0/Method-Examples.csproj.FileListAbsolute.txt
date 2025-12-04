@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Method-Examples\Method-Examples\bin\Debug\net8.0\Method-Examples.exe
+C:\Users\user\source\repos\Method-Examples\Method-Examples\bin\Debug\net8.0\Method-Examples.deps.json
+C:\Users\user\source\repos\Method-Examples\Method-Examples\bin\Debug\net8.0\Method-Examples.runtimeconfig.json
+C:\Users\user\source\repos\Method-Examples\Method-Examples\bin\Debug\net8.0\Method-Examples.dll
+C:\Users\user\source\repos\Method-Examples\Method-Examples\bin\Debug\net8.0\Method-Examples.pdb
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.AssemblyInfo.cs
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.dll
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\refint\Method-Examples.dll
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.pdb
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\Method-Examples.genruntimeconfig.cache
+C:\Users\user\source\repos\Method-Examples\Method-Examples\obj\Debug\net8.0\ref\Method-Examples.dll
