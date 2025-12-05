@@ -100,7 +100,7 @@ Focuses on converting user input from string to numeric types, including:
 * Use cases for input validation
 Essential for any program that accepts user input.
 
-📌 Methods_Examples ⭐ Newly Added
+📌 Methods_Examples
 ---
 This folder teaches how to use methods effectively in C#.
 
@@ -127,6 +127,15 @@ This module helps you understand:
 * Input/output handling
 * How real applications structure logic using methods
 
+📌 Foreach_Examples ⭐ Newly Added
+---
+Includes examples showing how to use the foreach loop with arrays and lists.
+Covers:
+* Iterating through color and number arrays
+* Printing only even numbers
+* Reading characters from a List<char>
+* A mid level project: International Student Evaluation System, where SAT, ACT, and TOEFL scores are taken, normalized, averaged, and evaluated.
+
 🎯 PURPOSE OF THIS REPOSITORY
 ---
 This project exists to help beginners:
@@ -138,7 +147,9 @@ This project exists to help beginners:
 ✔️ Strengthen C# skills through hands-on examples
 ✔️ Gain confidence by running working code
 
+
 Every file is clean, simple, and well-documented.
+
 
 ⚡ HOW TO USE
 ---
