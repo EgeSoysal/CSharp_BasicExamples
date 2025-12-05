@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\bin\Debug\net8.0\Foreach_Loop_Examples.exe
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\bin\Debug\net8.0\Foreach_Loop_Examples.deps.json
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\bin\Debug\net8.0\Foreach_Loop_Examples.runtimeconfig.json
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\bin\Debug\net8.0\Foreach_Loop_Examples.dll
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\bin\Debug\net8.0\Foreach_Loop_Examples.pdb
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.AssemblyInfo.cs
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.dll
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\refint\Foreach_Loop_Examples.dll
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.pdb
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\Foreach_Loop_Examples.genruntimeconfig.cache
+C:\Users\user\source\repos\Foreach_Loop_Examples\Foreach_Loop_Examples\obj\Debug\net8.0\ref\Foreach_Loop_Examples.dll
