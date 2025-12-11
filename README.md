@@ -253,19 +253,21 @@ Every file is clean, simple, and well-documented.
 4) Study the code and modify it to practice
 5) Build your own examples based on the structure
 
-⭐ HIGHLIGHTED PROJECT — Three-Digit Number Analyzer
+⭐ HIGHLIGHTED PROJECT — SQL-CSharp-ProductManagement_BasicLevel
 ---
 Located in:
 
-📂 Digit_Extraction_and_Sum_Calculator_in_C#
+📂 SQL-CSharp-ProductManagement_BasicLevel
 ---
 This program teaches:
-* Digit extraction
-* Mathematical processing
-* Modulus logic
-* Input/output formatting
-A perfect starting point for new learners.
+* How to create and connect to a SQL Server database
+* Performing CRUD operations (Create, Read, Update, Delete) using C#
+* Adding and managing food categories
+* Adding, listing, updating, and deleting food products
+* Using `SqlConnection`, `SqlCommand`, and `SqlDataAdapter` for database operations
+* Structuring a simple, practical console application
 
+  
 📜 LICENSE
 ---
 This repository is distributed under the MIT License.
