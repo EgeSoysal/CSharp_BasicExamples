@@ -127,7 +127,7 @@ This module helps you understand:
 * Input/output handling
 * How real applications structure logic using methods
 
-📌 Foreach_Examples ⭐ Newly Added
+📌 Foreach_Examples 
 ---
 Includes examples showing how to use the foreach loop with arrays and lists.
 Covers:
@@ -135,6 +135,90 @@ Covers:
 * Printing only even numbers
 * Reading characters from a List<char>
 * A mid level project: International Student Evaluation System, where SAT, ACT, and TOEFL scores are taken, normalized, averaged, and evaluated.
+
+📌 SQL-CSharp-ProductManagement_BasicLevel ⭐ Newly Added
+---
+A simple console application project demonstrating CRUD operations (Create, Read, Update, Delete) for food products and categories using C# and SQL Server.
+Perfect for learning how C# interacts with a database and practicing real-world application logic.
+
+This project includes:
+
+* Adding new food categories
+* Adding new food products
+* Listing all products
+* Updating product information
+* Deleting products
+
+The project demonstrates usage of SqlConnection, SqlCommand, and SqlDataAdapter for database operations in C#.
+
+Step-by-Step SQL Database Setup
+---
+
+1️⃣ Create the Database
+---
+CREATE DATABASE FoodOrderDb;
+USE FoodOrderDb;
+
+2️⃣ Create Categories Table
+---
+CREATE TABLE Categories (
+    CategoryID INT IDENTITY(1,1) PRIMARY KEY,
+    CategoryName NVARCHAR(100)
+);
+
+3️⃣ Create Products Table
+---
+CREATE TABLE Products (
+    ProductID INT IDENTITY(1,1) PRIMARY KEY,
+    ProductName NVARCHAR(100),
+    ProductPrice DECIMAL(10,2),
+    ProductStatus BIT,         -- 1 = active, 0 = inactive
+    CategoryID INT NULL
+);
+
+4️⃣ Insert Sample Data (Optional)
+---
+INSERT INTO Categories (CategoryName) VALUES ('Main Dishes');
+INSERT INTO Categories (CategoryName) VALUES ('Desserts');
+
+INSERT INTO Products (ProductName, ProductPrice, ProductStatus, CategoryID)
+VALUES ('Chicken Kebab', 185, 1, 1);
+
+INSERT INTO Products (ProductName, ProductPrice, ProductStatus, CategoryID)
+VALUES ('Chocolate Cake', 120, 1, 2);
+
+5️⃣ Listing Data
+---
+SELECT * FROM Products;
+SELECT * FROM Categories;
+
+-- Join example
+SELECT P.ProductID, P.ProductName, P.ProductPrice, C.CategoryName
+FROM Products P
+LEFT JOIN Categories C ON P.CategoryID = C.CategoryID;
+
+6️⃣ Updating Data
+---
+UPDATE Products
+SET ProductName = 'Beef Burger', ProductPrice = 195
+WHERE ProductID = 1;
+
+7️⃣ Deleting Data
+---
+DELETE FROM Products WHERE ProductID = 2;
+DELETE FROM Categories WHERE CategoryID = 2;
+
+Learning Outcomes
+---
+* Learn how to create and connect to a SQL Server database
+* Perform CRUD operations in SQL using C#
+* Use SqlCommand parameters safely
+* Display and manipulate database records in a console application
+* Structure a simple, practical C# project
+
+This project is a basic-level introduction to database-driven C# applications and is fully compatible with Visual Studio Community Edition or VS Code.
+
+
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
