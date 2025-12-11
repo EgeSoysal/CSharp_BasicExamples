@@ -138,11 +138,10 @@ Covers:
 
 📌 SQL-CSharp-ProductManagement_BasicLevel ⭐ Newly Added
 ---
-A simple console application project demonstrating CRUD operations (Create, Read, Update, Delete) for food products and categories using C# and SQL Server.
-Perfect for learning how C# interacts with a database and practicing real-world application logic.
+A simple console application project demonstrating CRUD operations (Create, Read, Update, Delete) for food products and categories using C# and SQL Server. Perfect for learning how C# interacts with a database and practicing real-world application logic.
 
 This project includes:
-
+---
 * Adding new food categories
 * Adding new food products
 * Listing all products
@@ -151,23 +150,28 @@ This project includes:
 
 The project demonstrates usage of SqlConnection, SqlCommand, and SqlDataAdapter for database operations in C#.
 
-Step-by-Step SQL Database Setup
 ---
 
-1️⃣ Create the Database
+### Step-by-Step SQL Database Setup
+
+#### 1️⃣ Create the Database
 ---
+```sql
 CREATE DATABASE FoodOrderDb;
 USE FoodOrderDb;
-
-2️⃣ Create Categories Table
+```
+#### 2️⃣ Create Categories Table
 ---
+```sql
 CREATE TABLE Categories (
     CategoryID INT IDENTITY(1,1) PRIMARY KEY,
     CategoryName NVARCHAR(100)
 );
+```
 
-3️⃣ Create Products Table
+####3️⃣ Create Products Table
 ---
+```sql
 CREATE TABLE Products (
     ProductID INT IDENTITY(1,1) PRIMARY KEY,
     ProductName NVARCHAR(100),
@@ -175,9 +179,11 @@ CREATE TABLE Products (
     ProductStatus BIT,         -- 1 = active, 0 = inactive
     CategoryID INT NULL
 );
+```
 
-4️⃣ Insert Sample Data (Optional)
+#### 4️⃣ Insert Sample Data (Optional)
 ---
+```sql
 INSERT INTO Categories (CategoryName) VALUES ('Main Dishes');
 INSERT INTO Categories (CategoryName) VALUES ('Desserts');
 
@@ -186,9 +192,11 @@ VALUES ('Chicken Kebab', 185, 1, 1);
 
 INSERT INTO Products (ProductName, ProductPrice, ProductStatus, CategoryID)
 VALUES ('Chocolate Cake', 120, 1, 2);
+```
 
-5️⃣ Listing Data
+#### 5️⃣ Listing Data
 ---
+```sql
 SELECT * FROM Products;
 SELECT * FROM Categories;
 
@@ -196,18 +204,22 @@ SELECT * FROM Categories;
 SELECT P.ProductID, P.ProductName, P.ProductPrice, C.CategoryName
 FROM Products P
 LEFT JOIN Categories C ON P.CategoryID = C.CategoryID;
+```
 
-6️⃣ Updating Data
+#### 6️⃣ Updating Data
 ---
+```sql
 UPDATE Products
 SET ProductName = 'Beef Burger', ProductPrice = 195
 WHERE ProductID = 1;
+```
 
-7️⃣ Deleting Data
+#### 7️⃣ Deleting Data
 ---
+```sql
 DELETE FROM Products WHERE ProductID = 2;
 DELETE FROM Categories WHERE CategoryID = 2;
-
+```
 Learning Outcomes
 ---
 * Learn how to create and connect to a SQL Server database
@@ -217,8 +229,6 @@ Learning Outcomes
 * Structure a simple, practical C# project
 
 This project is a basic-level introduction to database-driven C# applications and is fully compatible with Visual Studio Community Edition or VS Code.
-
-
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
