@@ -136,8 +136,7 @@ Covers:
 * Reading characters from a List<char>
 * A mid level project: International Student Evaluation System, where SAT, ACT, and TOEFL scores are taken, normalized, averaged, and evaluated.
 
-📌 SQL-CSharp-ProductManagement_BasicLevel ⭐ Newly Added
----
+📌 SQL-CSharp-ProductManagement_BasicLevel 
 A simple console application project demonstrating CRUD operations (Create, Read, Update, Delete) for food products and categories using C# and SQL Server. Perfect for learning how C# interacts with a database and practicing real-world application logic.
 
 This project includes:
@@ -229,6 +228,25 @@ Learning Outcomes
 * Structure a simple, practical C# project
 
 This project is a basic-level introduction to database-driven C# applications and is fully compatible with Visual Studio Community Edition or VS Code.
+
+📌 Student_Grade_Calculator ⭐ Newly Added
+---
+A simple console application project for calculating students' exam averages, overall grades, and letter grades. This project also handles extra credit points and prints a formatted grade report.
+
+This project includes:
+---
+* Storing student names and their exam/extra credit scores
+* Calculating exam average
+* Adding extra credit to compute overall grade
+* Assigning letter grades automatically
+* Displaying all results in a neat console table
+
+Great for:
+* Practicing arrays and loops (foreach)
+* Understanding conditional statements for letter grades
+* Learning basic console input/output and formatting
+* Beginner-level C# practice
+
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
