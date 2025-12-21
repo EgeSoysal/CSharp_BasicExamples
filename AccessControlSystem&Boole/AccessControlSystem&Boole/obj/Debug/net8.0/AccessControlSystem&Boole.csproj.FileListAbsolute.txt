@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.AssemblyInfo.cs
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\bin\Debug\net8.0\AccessControlSystem&Boole.exe
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\bin\Debug\net8.0\AccessControlSystem&Boole.deps.json
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\bin\Debug\net8.0\AccessControlSystem&Boole.runtimeconfig.json
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\bin\Debug\net8.0\AccessControlSystem&Boole.dll
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\bin\Debug\net8.0\AccessControlSystem&Boole.pdb
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.dll
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\refint\AccessControlSystem&Boole.dll
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.pdb
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\AccessControlSystem&Boole.genruntimeconfig.cache
+C:\Users\user\source\repos\AccessControlSystem&Boole\AccessControlSystem&Boole\obj\Debug\net8.0\ref\AccessControlSystem&Boole.dll
