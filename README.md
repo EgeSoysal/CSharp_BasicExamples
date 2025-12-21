@@ -229,7 +229,7 @@ Learning Outcomes
 
 This project is a basic-level introduction to database-driven C# applications and is fully compatible with Visual Studio Community Edition or VS Code.
 
-📌 Student_Grade_Calculator ⭐ Newly Added
+📌 Student_Grade_Calculator 
 ---
 A simple console application project for calculating students' exam averages, overall grades, and letter grades. This project also handles extra credit points and prints a formatted grade report.
 
