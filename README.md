@@ -247,6 +247,25 @@ Great for:
 * Learning basic console input/output and formatting
 * Beginner-level C# practice
 
+  📌 Boolean_Permission_Evaluator ⭐ Newly Added
+---
+A beginner-friendly console application demonstrating **boolean-based access control** in C#.
+
+This project includes:
+---
+* Role validation using string permissions
+* Access level checks with boolean expressions
+* Usage of `&&`, `||`, and `!`
+* `if / else if / else` decision structures
+* Console outputs based on business rules
+
+Great for learning:
+---
+* Boolean logic
+* Conditional statements
+* Role-based access control fundamentals
+
+
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
