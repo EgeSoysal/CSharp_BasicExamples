@@ -247,7 +247,7 @@ Great for:
 * Learning basic console input/output and formatting
 * Beginner-level C# practice
 
-  📌 Boolean_Permission_Evaluator ⭐ Newly Added
+📌 Boolean_Permission_Evaluator ⭐ Newly Added
 ---
 A beginner-friendly console application demonstrating **boolean-based access control** in C#.
 
