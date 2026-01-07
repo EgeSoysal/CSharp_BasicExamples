@@ -276,7 +276,14 @@ Each case includes:
 * Explanation-focused solutions
 * Expected output at the end of each case
 
-
+This folder covers topics such as:
+---
+* Arrays and Array.Clear() behavior
+* foreach loop limitations
+* String immutability (ToLower / ToUpper)
+* string.Format vs string interpolation
+* Console formatting and alignment issues
+* PadLeft / PadRight and currency formatting edge cases
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
