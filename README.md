@@ -265,6 +265,17 @@ Great for learning:
 * Conditional statements
 * Role-based access control fundamentals
 
+📌 CSharpEdgeCases ⭐ Newly Added
+---
+A collection of 11 C# edge cases focused on confusing and non-obvious behaviors that beginners often struggle with.
+
+Each case includes:
+---
+* Clearly titled case scenarios (Case 1 – Case 11)
+* Well-commented C# code
+* Explanation-focused solutions
+* Expected output at the end of each case
+
 
 
 🎯 PURPOSE OF THIS REPOSITORY
