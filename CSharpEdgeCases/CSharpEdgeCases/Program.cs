@@ -372,8 +372,184 @@ Invalid orders detected: C15 G3003
 */
 
 #endregion
-#region Case - 11 
+#region Case - 11 IndexOf() basic usage
 
+// Case Answer
+string message = "Find what is (inside the parentheses)";
+int openingPosition = message.IndexOf('(');
+int closingPosition = message.IndexOf(')');
 
+Console.WriteLine(openingPosition); // (index of opening parenthesis)
+Console.WriteLine(closingPosition); // (index of closing parenthesis)
 
+/* Case Output:
+13
+36
+*/
+#endregion
+
+#region Case - 12 Substring() Without Skipping Opening Symbol
+
+// Case Answer
+string message= "Find what is (inside the parentheses)";
+
+int openingPosition = message.IndexOf('(');
+int closingPosition = message.IndexOf(')');
+
+int length = closingPosition - openingPosition;
+Console.WriteLine(message.Substring(openingPosition, length)); // (includes '(')
+
+/* Case Output:
+(inside the parentheses
+*/
+#endregion 
+
+#region Case - 13 Substring() skipping '(' Corretly
+
+// Case Answer
+string message = "Find what is (inside the parentheses)";
+
+int openingPosition = message.IndexOf('(');
+int closingPosition = message.IndexOf(')');
+
+openingPosition += 1; // (skip '(')
+
+int length = closingPosition - openingPosition;
+Console.WriteLine(message.Substring(openingPosition, length));
+
+/* Case Output:
+inside the parentheses
+*/
+#endregion
+
+#region Case - 14 Extract text between <span> tags (hardcoded length)
+
+// Case Answer
     
+string message = "What is the value <span>between the tags</span>?";
+
+int openingPosition = message.IndexOf("<span>");
+int closingPosition = message.IndexOf("</span>");
+
+openingPosition += 6; // (length of "<span>")
+int length = closingPosition - openingPosition;
+
+Console.WriteLine(message.Substring(openingPosition, length));
+
+/* Case Output:
+between the tags
+*/
+#endregion
+
+#region Case - 15 IndexOfAny() with multiple opening symbols
+
+// Case Answer
+
+string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+
+char[] openSymbols = { '[', '{', '(' };
+int closingPosition = 0;
+
+while (true)
+{
+    int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
+    if (openingPosition == -1) break;
+
+    string currentSymbol = message.Substring(openingPosition, 1);
+    char matchingSymbol = ' ';
+
+    switch (currentSymbol)
+    {
+        case "[":
+            matchingSymbol = ']';
+            break;
+        case "{":
+            matchingSymbol = '}';
+            break;
+        case "(":
+            matchingSymbol = ')';
+            break;
+    }
+
+    openingPosition += 1;
+    closingPosition = message.IndexOf(matchingSymbol, openingPosition);
+
+    int length = closingPosition - openingPosition;
+    Console.WriteLine(message.Substring(openingPosition, length));
+}
+
+/* Case Output:
+What if
+different symbols
+open symbol
+matching closing symbol
+*/
+#endregion
+
+#region Case - 16 Remove() method
+
+// Case Answer
+
+string data = "123ruhi    Çenet123";
+
+string updatedData = data.Remove(3, 13);
+Console.WriteLine(updatedData);
+
+/* Case Output
+123123
+*/
+#endregion    
+
+#region Case - 17 Replace()
+
+// Case Answer
+    
+string message = "This--is--ex-amp-le--da-ta";
+
+message = message.Replace("--", " ");
+message = message.Replace("-", "");
+
+Console.WriteLine(message);
+
+/* Case Output: 
+This is example data
+*/
+#endregion
+
+#region Case - 18 Extraction, Replace and Remove Task
+
+// Case Answer
+
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = "";
+string output = "";
+
+const string openSpan = "<span>";
+const string closeSpan = "</span>";
+
+int quantityStart = input.IndexOf(openSpan) + openSpan.Length;
+int quantityEnd = input.IndexOf(closeSpan);
+int quantityLength = quantityEnd - quantityStart;
+
+quantity = input.Substring(quantityStart, quantityLength);
+quantity = $"Quantity: {quantity}";
+
+const string tradeSymbol = "&trade;";
+const string regSymbol = "&reg;";
+
+output = input.Replace(tradeSymbol, regSymbol);
+
+const string closeDiv = "</div>";
+int divCloseStart = output.IndexOf(closeDiv);
+
+output = "Output: " + output.Remove(divCloseStart, closeDiv.Length);
+
+Console.WriteLine(quantity);
+Console.WriteLine(output);
+
+/* Case Output
+Quantity: 5000
+Output: <div><h2>Widgets &reg;</h2><span>5000</span>
+*/
+#endregion
