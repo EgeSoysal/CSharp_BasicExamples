@@ -370,4 +370,12 @@ Cleared array values:
 
 Invalid orders detected: C15 G3003
 */
+
 #endregion
+#region Case - 11 
+
+
+
+
+
+    
