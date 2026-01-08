@@ -267,23 +267,43 @@ Great for learning:
 
 📌 CSharpEdgeCases ⭐ Newly Added
 ---
-A collection of 11 C# edge cases focused on confusing and non-obvious behaviors that beginners often struggle with.
+A curated collection of **18 C# edge cases** highlighting confusing, non-obvious, and often misunderstood behaviors that developers—especially beginners—frequently struggle with.
 
 Each case includes:
 ---
 * Clearly titled case scenarios (Case 1 – Case 18)
-* Well-commented C# code
-* Explanation-focused solutions
-* Expected output at the end of each case
+* Well-commented, readable C# code
+* Explanation-focused solutions that reveal the underlying pitfall
+* Expected output provided at the end of each case
 
-This folder covers topics such as:
+Why this exists:
 ---
-* Arrays and Array.Clear() behavior
-* foreach loop limitations
-* String immutability (ToLower / ToUpper)
-* string.Format vs string interpolation
-* Console formatting and alignment issues
-* PadLeft / PadRight and currency formatting edge cases
+These cases demonstrate behaviors that are technically correct in C#, yet often lead to incorrect assumptions, silent bugs, or confusion during learning, debugging, and technical interviews.
+
+Topics covered:
+---
+* String and numeric concatenation traps
+* Implicit vs explicit type conversions
+* Data loss during casting
+* `cast` vs `Convert` behavioral differences
+* Safe parsing with `TryParse`
+* Mixed data processing (numbers + text)
+* Array sorting and `Array.Clear()` behavior
+* Input validation and error detection
+* Financial, numeric, and console formatting
+* `IndexOf`, `Substring`, and `IndexOfAny` edge cases
+* String immutability and transformation pitfalls
+* `Remove()` and `Replace()` usage traps
+* Extraction, transformation, and cleanup workflows
+* Real-world defensive coding patterns
+
+Target audience:
+---
+* Beginner to intermediate C# developers
+* Students learning .NET fundamentals
+* Developers preparing for technical interviews
+* Anyone who wants to understand *why* C# behaves the way it does
+
 
 🎯 PURPOSE OF THIS REPOSITORY
 ---
